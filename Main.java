@@ -1,6 +1,6 @@
-package Assignment12;
+package ThreadsPractice;
 
-public class Assignment12 {
+public class Main {
     public static void main(String[] args) {
         Restaurant stingers = new Restaurant();
         System.out.println("We are open!");
